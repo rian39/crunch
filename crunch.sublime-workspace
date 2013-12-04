@@ -1,0 +1,914 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ngs",
+				"ngs_metacommunities_oct2013"
+			],
+			[
+				"runs",
+				"runs_instruments"
+			],
+			[
+				"machine",
+				"machines_exp	statement"
+			],
+			[
+				"mach",
+				"machines_exp	statement"
+			],
+			[
+				"instr",
+				"instrument_name_imputed"
+			],
+			[
+				"stud",
+				"studies	statement"
+			],
+			[
+				"center",
+				"center_name"
+			],
+			[
+				"add",
+				"add_edge	function"
+			],
+			[
+				"inst",
+				"instr_exp_dic	statement"
+			],
+			[
+				"num",
+				"num_edges	function"
+			],
+			[
+				"new",
+				"new_vertex_property	function"
+			],
+			[
+				"sam",
+				"sample_accession"
+			],
+			[
+				"vert",
+				"vertex_properties	statement"
+			],
+			[
+				"instruments",
+				"instruments_experiments	statement"
+			],
+			[
+				"l",
+				"log10	function"
+			],
+			[
+				"numb",
+				"number_of_nodes"
+			],
+			[
+				"query",
+				"query_b	statement"
+			],
+			[
+				"hit",
+				"hitCount"
+			],
+			[
+				"edge",
+				"edge_color	'k'"
+			],
+			[
+				"keys",
+				"keyword_counts	function"
+			],
+			[
+				"topic",
+				"topic_counts_sorted	param"
+			],
+			[
+				"wei",
+				"weight_threshold	param"
+			],
+			[
+				"weig",
+				"weight_threshold"
+			],
+			[
+				"cow",
+				"cow_m	param"
+			],
+			[
+				"topi",
+				"topics"
+			],
+			[
+				"to",
+				"topics"
+			],
+			[
+				"doc",
+				"doc_count	statement"
+			],
+			[
+				"col",
+				"colsums"
+			],
+			[
+				"iter",
+				"itertools	import"
+			],
+			[
+				"star",
+				"start_year"
+			],
+			[
+				"req",
+				"requests	import"
+			],
+			[
+				"page_",
+				"page_query"
+			],
+			[
+				"page",
+				"page_count	statement"
+			],
+			[
+				"comb",
+				"combined_tokens"
+			],
+			[
+				"a",
+				"all_df.abstract"
+			],
+			[
+				"c",
+				"all_df.title.str.cat"
+			],
+			[
+				"ab",
+				"abstract"
+			],
+			[
+				"si",
+				"dictionary_s.size"
+			],
+			[
+				"abstract",
+				"abstract"
+			],
+			[
+				"try",
+				"try	Try/Except/Finally"
+			],
+			[
+				"s",
+				"pn.save"
+			],
+			[
+				"abstr",
+				"abstracts"
+			],
+			[
+				"fe",
+				"feat_train"
+			],
+			[
+				"y",
+				"y_test"
+			],
+			[
+				"feat",
+				"feat_test"
+			],
+			[
+				"se",
+				"np.select"
+			],
+			[
+				"test_",
+				"test_index"
+			],
+			[
+				"all",
+				"all_df"
+			],
+			[
+				"Gu",
+				"GaussianNB"
+			],
+			[
+				"get",
+				"train_df.get_value"
+			],
+			[
+				"in",
+				"indices"
+			],
+			[
+				"f",
+				"feat_vect.fillna"
+			],
+			[
+				"data",
+				"~/Documents/data_intensive/"
+			],
+			[
+				"fea",
+				"feat_vect"
+			],
+			[
+				"st",
+				"dictionary_s.str.startswith"
+			],
+			[
+				"pmid",
+				"pmid_index"
+			],
+			[
+				"pm",
+				"pmid_index"
+			],
+			[
+				"token",
+				"tokens"
+			],
+			[
+				"dictionary",
+				"dictionary_s"
+			],
+			[
+				"i",
+				"tokens.iget_value"
+			],
+			[
+				"v",
+				"titles.values"
+			],
+			[
+				"tit",
+				"title"
+			],
+			[
+				"va",
+				"train_df.title.values"
+			],
+			[
+				"Da",
+				"DataFrame"
+			],
+			[
+				"diction",
+				"dictionary_s"
+			],
+			[
+				"dic",
+				"dictionary_s"
+			],
+			[
+				"di",
+				"dictionary_s"
+			],
+			[
+				"tk",
+				"token_unique"
+			],
+			[
+				"toke",
+				"tokens_f"
+			],
+			[
+				"it",
+				"dictionary.iteritems"
+			],
+			[
+				"p",
+				"tokens.pop"
+			],
+			[
+				"ti",
+				"train_df.title"
+			],
+			[
+				"w",
+				"nltk.tokenize.word_tokenize"
+			],
+			[
+				"t",
+				"dictionary_s"
+			],
+			[
+				"dict",
+				"dict_token"
+			],
+			[
+				"d",
+				"Documents/data_intensive/"
+			],
+			[
+				"D",
+				"Documents/"
+			],
+			[
+				"train",
+				"train_df"
+			],
+			[
+				"Time",
+				"pn.TimeSeries"
+			],
+			[
+				"ng",
+				"~/Documents/data_intensive/ngs_data_topography/"
+			],
+			[
+				"da",
+				"~/Documents/data_intensive/"
+			],
+			[
+				"ge",
+				"getruns"
+			],
+			[
+				"db",
+				"dbsetup"
+			],
+			[
+				"whi",
+				"whichdb"
+			],
+			[
+				"ggpl",
+				"ggplot2"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"file",
+				"filesize"
+			],
+			[
+				"ena",
+				"ena_clean"
+			],
+			[
+				"tab",
+				"table_count"
+			],
+			[
+				"n",
+				"ngs_paper"
+			],
+			[
+				"plot",
+				"plot_basic_users"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/bash.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"set",
+				"Set Syntax: JSON"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"mar",
+				"Pandoc: Render Markdown to temp PDF and View"
+			],
+			[
+				"sbu",
+				"SublimeREPL: R"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"repl",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"pyth",
+				"SublimeREPL: Python - IPython"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"File: Save All"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"kn",
+				"Set Syntax: knitr (Markdown)"
+			],
+			[
+				"set markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"set pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"set py",
+				"Set Syntax: Python"
+			],
+			[
+				"up",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"set syntaxm",
+				"Set Syntax: Markdown"
+			],
+			[
+				"set syntax py",
+				"Set Syntax: Python"
+			],
+			[
+				"set s",
+				"Set Syntax: R"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"se",
+				"Set Syntax: Markdown"
+			],
+			[
+				"s",
+				"Set Syntax: BibTeX"
+			],
+			[
+				"S",
+				"Set Syntax: R"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 528.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/mackenza/R/crunchbase/data/Knodes.js",
+		"/home/mackenza/Dropbox/cmr/cmr_refs.py",
+		"/home/mackenza/Dropbox/cmr/refs_all.md",
+		"/home/mackenza/Documents/notes/Xue_SVM: Support Vector Machines_2009.md",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/ngs_metacommunities_oct2013.md",
+		"/home/mackenza/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mackenza/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mackenza/.config/sublime-text-3/Packages/User/SublimeREPL.sublime-settings",
+		"/home/mackenza/.config/sublime-text-3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/tmp/.fr-besgm4/MH0006_lane2.1.fq",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/community-history2",
+		"/media/mackenza/0031-014A/Documents/data_intensive/ngs_data_topography/pubmed_articles.py",
+		"/home/mackenza/Documents/data_intensive/number_supply/Mackenzie_revision_letter.txt",
+		"/home/mackenza/R/ngs/data/library.bib",
+		"/media/mackenza/0031-014A/Documents/data_intensive/ngs_data_topography/ngs_paper/ngs_metacommunities_oct2013.rmd",
+		"/home/mackenza/Documents/socialising_big_data/Collab1_plan.md",
+		"/home/mackenza/.config/sublime-text-3/Packages/Python Flake8 Lint/Default (Linux).sublime-keymap",
+		"/media/mackenza/0031-014A/Documents/data_intensive/book/ml_lit/ml_lit_anal.py",
+		"/home/mackenza/R/ngs/pubmed_lit.py",
+		"/home/mackenza/Music/rtmidi_test.py",
+		"/home/mackenza/R/ngs/dbGap_analysis.R",
+		"/home/mackenza/gdrive/Socialising Big Data/Collaboratory1_DNA_Data/todo_list.txt",
+		"/home/mackenza/Downloads/todo_list.mdown",
+		"/home/mackenza/Documents/google_analytics_spet2012/budget_expenses/account_code.eml",
+		"/home/mackenza/.config/sublime-text-3/Packages/Enhanced-R/Enhanced-R.sublime-settings",
+		"/home/mackenza/.config/sublime-text-3/Packages/SublimeJEDI/Default.sublime-mousemap",
+		"/home/mackenza/.config/sublime-text-3/Packages/SublimeJEDI/Default.sublime-keymap",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/ngs_data_methods.rmd",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/latex.template",
+		"/home/mackenza/.matplotlib/matplotlibrc",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/ngs_metacommunities.md",
+		"/home/mackenza/Documents/python_tips.py",
+		"/home/mackenza/matplotlibrc",
+		"/home/mackenza/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/mackenza/.config/sublime-text-2/Packages/Python Open Module (New)/Python Open Module (New).sublime-settings",
+		"/home/mackenza/Downloads/sratoolkit.2.2.2b-ubuntu32/README",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/data/ena_submission.csv",
+		"/home/mackenza/R/ngs/sra_run_analysis.Rmd",
+		"/home/mackenza/R/ngs/centers.Rmd",
+		"/home/mackenza/R/ngs/ensemble_explore.R",
+		"/home/mackenza/R/ngs/geodb_explore.R",
+		"/home/mackenza/R/ngs/gold_db.R",
+		"/home/mackenza/R/ngs/map_ngs.R",
+		"/home/mackenza/Documents/data_intensive/subjectivity_article/subjectivity_article",
+		"/tmp/The Politics and Contexts of Soviet Science Studies",
+		"/tmp/Perestrojka and Science: A Moscow Institute and Its Transformations",
+		"/home/mackenza/.gvfs/SFTP for sociomics on sociomics3/home/sociomics/data_economy/sra/pull_SRA_data.R",
+		"/home/mackenza/.gvfs/SFTP for sociomics on sociomics3/home/sociomics/data_economy/ea/sra_structure_summary.r",
+		"/home/mackenza/.gvfs/SFTP for sociomics on sociomics3/home/sociomics/data_economy/ena/convert_xml.py",
+		"/home/mackenza/.gvfs/SFTP for sociomics on sociomics3/home/sociomics/data_economy/ea/crossvalidate_submission_accession_numbers.r",
+		"/home/mackenza/.gvfs/SFTP for sociomics on sociomics3/home/sociomics/data_economy/ena/download_ebi_study_info.py",
+		"/home/mackenza/.gvfs/SFTP for sociomics on sociomics3/home/sociomics/data_economy/ena/download_ebi_submission_info.py",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/pandoc.sh",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/knit.R",
+		"/home/mackenza/Documents/data_intensive/ngs_data_topography/ngs_paper/build.sh",
+		"/home/mackenza/R/ngs/sra_analysis.R",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/template.latex",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/latex.template",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/pandoc_format_paper.sh",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/Markdown.sublime-settings",
+		"/home/mackenza/R/ngs/eagle_analysis.R",
+		"/home/mackenza/.config/sublime-text-2/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/ngs_data_methods.md",
+		"/home/mackenza/Dropbox/data-economy/DSR/ebi_visit_1nov2012.txt",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/syntheticbiology.sublime-snippet",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/sbi.sublime-snippet",
+		"/var/tmp/kdecache-mackenza/krun/17104.0.projects",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/home/mackenza/.config/sublime-text-2/Packages/WordCount/WordCount.py",
+		"/home/mackenza/.config/sublime-text-2/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/SmartMarkdown.sublime-settings",
+		"/home/mackenza/.config/sublime-text-2/Packages/IPython Integration/README.md",
+		"/home/mackenza/R/ngs/sra_run_analysis.md",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/ngs_data_methods.rmd",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/R.sublime-settings",
+		"/home/mackenza/.config/sublime-text-2/Packages/R Tools/R.sublime-build",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/ngs_data_methods.txt",
+		"/home/mackenza/Dropbox/data-economy/ngs_paper/paper/ngs_data_methods.txt",
+		"/home/mackenza/.config/sublime-text-2/Packages/SmartMarkdown/Default.sublime-keymap",
+		"/home/mackenza/Dropbox/ngs_paper/paper/ngs_data_methods.rmd",
+		"/home/mackenza/Dropbox/ngs_paper/paper/references/ngs.bib",
+		"/home/mackenza/Dropbox/ngs_paper/paper/ngs_data_paper.sublime-workspace",
+		"/home/mackenza/Dropbox/data-economy/paper/ngs_data_methods.md",
+		"/home/mackenza/Dropbox/data-economy/paper/references/ngs.bib",
+		"/home/mackenza/Dropbox/data-economy/paper/pandoc_format_paper.sh",
+		"/home/mackenza/Dropbox/ngs_paper/build/pandoc.sublime-build",
+		"/home/mackenza/.config/sublime-text-2/Packages/User/untitled.sublime-snippet",
+		"/home/mackenza/Dropbox/data-economy/paper/4S EASST talk.docx",
+		"/home/mackenza/Desktop/build.R",
+		"/home/mackenza/Desktop/test3.md",
+		"/home/mackenza/Desktop/test4.R",
+		"/home/mackenza/Desktop/test2.mdown",
+		"/home/mackenza/Desktop/test1.md",
+		"/home/mackenza/R/montecarlo/data/refs.bib",
+		"/home/mackenza/Desktop/test6.rmd",
+		"/home/mackenza/R/ngs/data/geo_schema.sql",
+		"/home/mackenza/Desktop/test.sublime-project",
+		"/media/0031-014A/Documents/supervision/xaroula/chapter 2 attempt.doc",
+		"/home/mackenza/Desktop/scrivener-manual-a4.pdf"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"map",
+			"dpi",
+			"() ",
+			"ngs_metacommunities",
+			"Table 1",
+			"cost",
+			"comment=FALSE",
+			"xtable",
+			"instruments",
+			"r instruments",
+			"leon",
+			"xtable",
+			"instruments",
+			"ngs_machines",
+			"+  ",
+			"ena_clean",
+			"+  ",
+			"font",
+			"sequence read archive",
+			"machines_exp",
+			"*",
+			"\n*",
+			"mackenzie_machine_2014",
+			"busch_performing_2007",
+			"s_accession",
+			"experiments",
+			"instrument_name",
+			"experiment",
+			"instruments_experiments",
+			"    ",
+			"instruments_experiments",
+			"PMC",
+			"G",
+			"wos_df",
+			"DE",
+			"mesh_df",
+			"svm_df",
+			"svm_",
+			"a",
+			"collections",
+			"cow99m",
+			"has_key",
+			"de_counts",
+			"mesh_df",
+			"collections",
+			"pn",
+			"line",
+			"abstract",
+			"abstracts",
+			"the",
+			"feat_test",
+			"y_test",
+			"train_df",
+			"\n",
+			"meta-community",
+			"network_size",
+			"quack",
+			"Loman",
+			"ngs_data_methods",
+			"Times",
+			"  \n",
+			" ",
+			"plot_basic_users",
+			"Wateron",
+			"Waterson",
+			"Latour",
+			"of",
+			"edwards",
+			"672",
+			"Coles",
+			"coles",
+			"##",
+			"metadata",
+			"Metadata",
+			"ADRIAN",
+			"Adrian",
+			"ADRIAN",
+			"Adrian",
+			"------------------------------------------------------------",
+			"Adrian",
+			"ADRIAN",
+			"Adrian",
+			"---------------------------------\n",
+			"---------------------------------",
+			"Discussion"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"SRA"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"project": "crunch.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/media/mackenza/0031-014A/Documents/data_intensive/ngs_data_topography/ngs_paper/ngs_metacommunities_oct2013.rmd"
+			],
+			[
+				"pu",
+				"ngs/pubmed_lit.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/data_intensive/book/data_book.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"steve",
+				"stevens_life_2013"
+			],
+			[
+				"stev",
+				"stevens_life_2013"
+			],
+			[
+				"steven",
+				"stevens_life_2013"
+			],
+			[
+				"galper",
+				"galperin_2011_2010"
+			],
+			[
+				"galp",
+				"galperin_2011_2010"
+			],
+			[
+				"leonelli_rethinking_2011",
+				"leonelli_rethinking_2011"
+			],
+			[
+				"leo",
+				"leonelli_re-thinking_2011"
+			],
+			[
+				"leon",
+				"leonelli_re-thinking_2011"
+			],
+			[
+				"hel",
+				"Helmreich2008"
+			],
+			[
+				"rose",
+				"rose_politics_2006"
+			],
+			[
+				"mack",
+				"mackenzie_machine_2014"
+			],
+			[
+				"nad",
+				"nadim_inside_2012"
+			],
+			[
+				"neil",
+				"neilson_five_2012"
+			],
+			[
+				"busch",
+				"busch_performing_2007"
+			],
+			[
+				"helm",
+				"Helmreich2007"
+			],
+			[
+				"nadim",
+				"nadim_inside_2012"
+			],
+			[
+				"chow",
+				"chow-white_bidirectional_2011"
+			]
+		],
+		"width": 485.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 338.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
